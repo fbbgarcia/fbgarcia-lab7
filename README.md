@@ -9,6 +9,7 @@ Instructions:
 Notes:
 - Lack of consistent use of forms to create a cleaner interface
 - Lack of checks for valid input
+- Lack of resource management
 - Inconsistent returns to Main Menu after each option
   
 (Sorry, ran out of time)
